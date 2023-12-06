@@ -9,4 +9,4 @@ To run the server, you can use your terminal to change directories to where your
 ```python http_server.py```
 
 # Sample server output
-![alt text](https://github.com/jakeintravaia/MoodGuard-Server/blob/main/sample_output.png?raw=true)https://github.com/jakeintravaia/MoodGuard-Server/blob/main/sample_output.png?raw=true)
+![alt text](https://github.com/jakeintravaia/MoodGuard-Server/blob/main/sample_output.png?raw=true)
