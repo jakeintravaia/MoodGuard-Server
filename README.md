@@ -9,4 +9,4 @@ To run the server, you can use your terminal to change directories to where your
 ```python http_server.py```
 
 # Sample server output
-[!alt text](https://imgur.com/GGun86D)
+[!alt text](https://i.imgur.com/GGun86D.png)
