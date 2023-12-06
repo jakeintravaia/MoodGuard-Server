@@ -7,3 +7,6 @@ Clone the repository into a folder of your choosing. In order for the server to 
 # How to run the server
 To run the server, you can use your terminal to change directories to where your server has been downloaded. Once you're in the correct working directory, simply type:
 ```python http_server.py```
+
+# Sample server output
+[!alt text](https://imgur.com/GGun86D)
